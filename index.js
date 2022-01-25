@@ -134,7 +134,7 @@ if (repeat < 2) {
     });
 
     await MailPage.bringToFront();
-    await MailPage.goto("https://temp-mail.org/se/", { waitUntil: 'networkidle2', timeout: 0});
+    await MailPage.goto("https://temp-mail.org/fr/", { waitUntil: 'networkidle2', timeout: 0});
     var info_id = "#mail";
 
     try {
