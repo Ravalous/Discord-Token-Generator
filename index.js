@@ -177,7 +177,7 @@ if (repeat < 2) {
 
   async function create_accinfos(browser, d) {
     // Variables importantes
-    const username = 'SupportiVe';
+    const username = uniqueNamesGenerator({dictionaries: [adjectives, colors, animals, countries, names, languages, starWars],  separator: '', style: "capital",length: 3,});
     const password = crypto.randomBytes(16).toString('hex');
     const MailPage = (await browser.pages())[0];
     var email;
