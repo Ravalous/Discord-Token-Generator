@@ -1,0 +1,32 @@
+{
+  "name": "Tokens-Gen",
+  "version": "1.0.0",
+  "description": "A \"working\" discord token generator with puppeteer",
+  "main": "gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Just-Msv/Tokens-Gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Just-Msv/Tokens-Gen/issues"
+  },
+  "homepage": "https://github.com/Just-Msv/Tokens-Gen#readme",
+  "dependencies": {
+    "@cliqz/adblocker-puppeteer": "^1.22.2",
+    "axios": "^0.24.0",
+    "build": "^0.1.4",
+    "cross-fetch": "^3.1.4",
+    "i": "^0.3.6",
+    "npm": "^7.19.1",
+    "puppeteer": "^10.1.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-recaptcha": "^3.4.0",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "unique-names-generator": "^4.5.0"
+  }
+}
