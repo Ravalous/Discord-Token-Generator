@@ -1,6 +1,5 @@
 # Discord-Token-Generator
-!!! CAPTCHA BYPASS PATCHED. "CAN USE OWN API KEY" 
-
+!!! CAPTCHA BYPASS PATCHED. 
 
 This is a discord gen, that makes automatically discord accounts. Bypass Captcha Email Verifyd
 for help or questions - telegram @ravalous  -Group https://t.me/+soVBqPG4sjo1ZTk0
