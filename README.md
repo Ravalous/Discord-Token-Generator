@@ -1,5 +1,6 @@
-# Discord-Token-Generator
-!!! CAPTCHA BYPASS PATCHED. 
+Currently patched and discontinued
+
+working on new gen
 
 This is a discord gen, that makes automatically discord accounts. Bypass Captcha Email Verifyd
 for help or questions - telegram @ravalous  -Group https://t.me/+soVBqPG4sjo1ZTk0
