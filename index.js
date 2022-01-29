@@ -8,7 +8,6 @@ const { PuppeteerBlocker } = require('@cliqz/adblocker-puppeteer')
 const {fetch} = require('cross-fetch')
 const fs = require('fs')
 const { Console } = require('console')
-const ac = require("@antiadmin/anticaptchaofficial");
 
 
 console.log(`
@@ -53,7 +52,7 @@ puppeteer.use(StealthPlugin())
 puppeteer.use(
   RecaptchaPlugin({
     provider: {
-      id: 'anticaptcha',
+      id: '2captcha',
       token: captchakey,
     },
     visualFeedback: true,
